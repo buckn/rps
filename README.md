@@ -1,14 +1,14 @@
-#rps
+# rps
 
 A work in progress rock, paper, scissors game using Cordova and Socket.io.
 
-##Install Packages
+## Install Packages
 
 You need to install cordova in npm for this project to work. Run this command from the root of the rps project folder to install the required node packages.
 
 `npm install`
 
-##How to Run
+## How to Run
 
 To run rps just run this in the root directory of rps to start the server.
 
